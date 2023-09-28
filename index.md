@@ -5,8 +5,8 @@
 2. [Goals](#goals)
 3. [Usage](#usage)
 4. [Installation](#installation)
-5. [Development Status](#development status)
-6. [About us](#about us)
+5. [Development Status](#development-status)
+6. [About us](#about-us)
 
 ## Motivation
 
@@ -28,14 +28,12 @@ The following images are screenshots taken of the current state of the Pet-Omete
 ## Installation
 1. Navigate to the [Pet-Ometer repository](https://github.com/Pet-Ometer/App)
 2. Clone it to your local machine by pressing the Code button
-3. Open an IDE of your choice and run the command **flutter run**
+3. Open an IDE of your choice and run the command ```flutter run```
 
 ## Development status 
 Here is a link to our [Phase 1 Project Board](https://github.com/Pet-Ometer/app/projects?query=is%3Aopen)
 
 ## About us
-Cameron Arakaki
-Software Engineering student at the University of Hawai`i at Manoa
+Cameron Arakaki - Software Engineering student at the University of Hawai`i at Manoa
 
-Eda Cadiena
-Computer Science student at the University of Hawai`i at Manoa
+Eda Cadiena - Computer Science student at the University of Hawai`i at Manoa
