@@ -24,6 +24,12 @@ The Pet-Ometer utilizing the following tools/technologies:
 - Firebase
 
 The following images are screenshots taken of the current state of the Pet-Ometer.
+<img class="ui large image" src="images/phase1/phase_1_login.png">
+<img class="ui large image" src="images/phase1/phase_1_creation.png">
+<img class="ui large image" src="images/phase1/phase_1_home.png">
+<img class="ui large image" src="images/phase1/phase_1_history.png">
+<img class="ui large image" src="images/phase1/phase_1_leaderboard.png">
+<img class="ui large image" src="images/phase1/phase_1_challenges.png">
 
 ## Installation
 1. Navigate to the [Pet-Ometer repository](https://github.com/Pet-Ometer/App)
