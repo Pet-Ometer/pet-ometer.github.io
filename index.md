@@ -37,7 +37,7 @@ The following images are screenshots taken of the current state of the Pet-Omete
 3. Open an IDE of your choice and run the command ```flutter run```
 
 ## Development status 
-Here is a link to our completed [Phase 1 Project Board](https://github.com/Pet-Ometer/app/projects?query=is%3Aopen).
+Here is a link to our completed [Phase 1 Project Board](https://github.com/orgs/Pet-Ometer/projects/1).
 <br>
 Here is a link to our current [Phase 2 Project Board](https://github.com/orgs/Pet-Ometer/projects/2).
 
