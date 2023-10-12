@@ -42,6 +42,10 @@ Here is a link to our completed [Phase 1 Project Board](https://github.com/Pet-O
 Here is a link to our current [Phase 2 Project Board](https://github.com/orgs/Pet-Ometer/projects/2).
 
 ## About us
-Cameron Arakaki - Software Engineering student at the University of Hawai`i at Manoa
+<img class="ui small image" src="images/phase1/cameron_arakaki.png" width='150' height='150'>
+Cameron Arakaki - Software Engineering student at the University of Hawai`i at Manoa, portfolio linked here: https://carakaki808.github.io/.
 
-Eda Cadiena - Computer Science student at the University of Hawai`i at Manoa
+<br>
+
+<img class="ui small image" src="images/phase1/eda_cadiena.jfif" width='150' height='150'>
+Eda Cadiena - Computer Science student at the University of Hawai`i at Manoa, portfolio linked here: https://ecadiena.github.io/.
