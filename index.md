@@ -30,7 +30,7 @@ The following images are screenshots taken of the current state of the Pet-Omete
 <img class="ui large image" src="images/phase1/phase_1_home.png">
 <img class="ui large image" src="images/phase1/phase_1_history.png">
 <img class="ui large image" src="images/phase1/phase_1_challenges.png">
-<img class="ui large image" src="images/phase1/logout.png">
+<img class="ui large image" src="images/phase1/settings_page.png">
 
 ## Installation
 1. Navigate to the [Pet-Ometer repository](https://github.com/Pet-Ometer/App)
@@ -43,6 +43,8 @@ Here is a link to our completed [Phase 1 Project Board](https://github.com/orgs/
 Here is a link to our completed [Phase 2 Project Board](https://github.com/orgs/Pet-Ometer/projects/2).
 <br>
 Here is a link to our completed [Phase 3 Project Board](https://github.com/orgs/Pet-Ometer/projects/3).
+<br>
+Here is a link to our completed [Phase 4 Project Board](https://github.com/orgs/Pet-Ometer/projects/4).
 
 ## About us
 <img class="ui small image" src="images/phase1/cameron_arakaki.png" width='150' height='150'>
