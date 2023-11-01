@@ -26,7 +26,7 @@ The Pet-Ometer utilizing the following tools/technologies:
 The following images are screenshots taken of the current state of the Pet-Ometer.
 <img class="ui large image" src="images/phase1/splash.png">
 <img class="ui large image" src="images/phase1/login.png">
-<img class="ui large image" src="images/phase1/phase_1_creation.png">
+<img class="ui large image" src="images/phase1/Screenshot_20231031_181903.png">
 <img class="ui large image" src="images/phase1/phase_1_home.png">
 <img class="ui large image" src="images/phase1/phase_1_history.png">
 <img class="ui large image" src="images/phase1/phase_1_challenges.png">
