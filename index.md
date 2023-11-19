@@ -22,6 +22,7 @@ The Pet-Ometer utilizing the following tools/technologies:
 - Flutter
 - Dart
 - Firebase
+- Firefoo
 
 The following images are screenshots taken of the current state of the Pet-Ometer.
 <img class="ui large image" src="images/phase1/splash.png">
@@ -44,6 +45,8 @@ Here is a link to our completed [Phase 2 Project Board](https://github.com/orgs/
 Here is a link to our completed [Phase 3 Project Board](https://github.com/orgs/Pet-Ometer/projects/3).
 <br>
 Here is a link to our completed [Phase 4 Project Board](https://github.com/orgs/Pet-Ometer/projects/4).
+<br>
+Here is a link to our completed [Phase 5 Project Board](https://github.com/orgs/Pet-Ometer/projects/6).
 
 ## About us
 <img class="ui small image" src="images/phase1/cameron_arakaki.png" width='150' height='150'>
