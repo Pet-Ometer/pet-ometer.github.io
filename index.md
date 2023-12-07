@@ -24,6 +24,10 @@ The Pet-Ometer utilizing the following tools/technologies:
 - Firebase
 - Firefoo
 
+## Usability Evaluation
+The following link is the testing and usability report for Pet-Ometer: [Usability Evaluation](https://github.com/Pet-Ometer/pet-ometer.github.io/blob/main/evaluation.md).
+
+## App Screenshots
 The following images are screenshots taken of the current state of the Pet-Ometer.
 <img class="ui large image" src="images/phase1/phase_5_login.png">
 <img class="ui large image" src="images/phase1/phase_5_register.png">
