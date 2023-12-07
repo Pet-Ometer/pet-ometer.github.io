@@ -26,11 +26,13 @@ The Pet-Ometer utilizing the following tools/technologies:
 
 The following images are screenshots taken of the current state of the Pet-Ometer.
 <img class="ui large image" src="images/phase1/splash.png">
-<img class="ui large image" src="images/phase1/login.png">
-<img class="ui large image" src="images/phase1/phase_1_home.png">
-<img class="ui large image" src="images/phase1/phase_1_history.png">
-<img class="ui large image" src="images/phase1/phase_1_challenges.png">
-<img class="ui large image" src="images/phase1/settings_page.png">
+<img class="ui large image" src="images/phase1/login ss.png">
+<img class="ui large image" src="images/phase1/register ss.png">
+<img class="ui large image" src="images/phase1/happy dog ss.png">
+<img class="ui large image" src="images/phase1/sad dog ss.png">
+<img class="ui large image" src="images/phase1/history ss.png">
+<img class="ui large image" src="images/phase1/challenges ss.png">
+<img class="ui large image" src="images/phase1/settings ss.png">
 
 ## Installation
 1. Navigate to the [Pet-Ometer repository](https://github.com/Pet-Ometer/App)
