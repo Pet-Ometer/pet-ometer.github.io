@@ -33,3 +33,4 @@ To boost Pet-Ometer app user acquisition, we would employ targeted social media 
 
 ## Usability Testing Report
 The following document is a report containing the user feedback received from testing the Pet-Ometer app.
+[Usability Design Report](https://github.com/Pet-Ometer/App](https://github.com/Pet-Ometer/pet-ometer.github.io/blob/main/Usability%20Design%20Report.pdf)https://github.com/Pet-Ometer/pet-ometer.github.io/blob/main/Usability%20Design%20Report.pdf)
