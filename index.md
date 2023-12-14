@@ -34,28 +34,28 @@ The following images are screenshots taken of the current state of the Pet-Omete
 
 ### Login Page
 <img class="ui large image" src="images/phase1/phase_5_login.png" width=300 height=600 >
-The login page is for users with existing accounts to access their virtual pet.
+<br />The login page is for users with existing accounts to access their virtual pet.
 
 ### Registration Page
 <img class="ui large image" src="images/phase1/phase_5_register.png" width=300 height=600 >
-The registration page is for non-registered users to create and customize their new virtual companion.
+<br />The registration page is for non-registered users to create and customize their new virtual companion.
 
 ### Pedometer Page
 <img class="ui large image" src="images/phase1/phase_5_pedometer_happy.png" width=300 height=600 >
 <img class="ui large image" src="images/phase1/phase_5_pedometer_sad.png" width=300 height=600 >
-The pedometer page shows a high level overview of the user's daily step count and other exercise metrics. This page also displays their virtual pet with their mood reflecting the user's daily exercise progress.
+<br />The pedometer page shows a high level overview of the user's daily step count and other exercise metrics. This page also displays their virtual pet with their mood reflecting the user's daily exercise progress.
 
 ### History Page
 <img class="ui large image" src="images/phase1/phase_5_history.png" width=300 height=600 >
-The history page shows the user's weekly progress on their daily goals, which uses progress circles to represent how much of their goal was completed for each metric everyday.
+<br />The history page shows the user's weekly progress on their daily goals, which uses progress circles to represent how much of their goal was completed for each metric everyday.
 
 ### Challenges Page
 <img class="ui large image" src="images/phase1/phase_5_challenges.png" width=300 height=600 >
-The challenges page displays virtual challenges that the user may complete for a boost or sense of accomplishment, each challenge is paired with a complete/incomplete tag and a frequency of how often the user should do the challenge for (daily/weekly/monthly).
+<br />The challenges page displays virtual challenges that the user may complete for a boost or sense of accomplishment, each challenge is paired with a complete/incomplete tag and a frequency of how often the user should do the challenge for (daily/weekly/monthly).
 
 ### Settings Page
 <img class="ui large image" src="images/phase1/phase_5_settings.png" width=300 height=600 >
-The settings page is where the user can change the customization of their virtual companion or log out of their account.
+<br />The settings page is where the user can change the customization of their virtual companion or log out of their account.
 
 ## Installation
 1. Navigate to the [Pet-Ometer repository](https://github.com/Pet-Ometer/App)
@@ -79,9 +79,10 @@ This version of the application is not deployed on any publicly available app st
 ## About us
 <img class="ui small image" src="images/phase1/cameron_arakaki.png" width='150' height='150'>
 Cameron Arakaki - Software Engineering student at the University of Hawai`i at Manoa, portfolio linked [here](https://carakaki808.github.io/).
+contributions include: designing and implementing user interface, set-up database, implemented freezed and riverpod annotations for state management, and implemented user authentication. I mostly handled the backend development while focusing on our main page the pedometer.
 
 <br>
 
 <img class="ui small image" src="images/phase1/eda_cadiena.jfif" width='150' height='150'>
 Eda Cadiena - Computer Science student at the University of Hawai`i at Manoa, portfolio linked [here](https://ecadiena.github.io/).
-Contributions include: designing and implementing frontend user interface, organizing usability evaluations, updating proejct site weekly, and deployment for testing.
+Contributions include: designing and implementing frontend user interface, organizing usability evaluations, updating project site weekly, and deployment for testing.
